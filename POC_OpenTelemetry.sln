@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Job", "Job\Job.csproj", "{7
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metric", "Metric\Metric.csproj", "{6EE712C0-AA3A-44BE-AD98-5090EF9FD5D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "..\API\API.csproj", "{91BF69AB-E09A-4D5D-BF97-CA95443A3835}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API", "API\API.csproj", "{32A4D434-3353-47B6-ACA3-1A1DAA778A28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{6EE712C0-AA3A-44BE-AD98-5090EF9FD5D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EE712C0-AA3A-44BE-AD98-5090EF9FD5D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EE712C0-AA3A-44BE-AD98-5090EF9FD5D3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{91BF69AB-E09A-4D5D-BF97-CA95443A3835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{91BF69AB-E09A-4D5D-BF97-CA95443A3835}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{91BF69AB-E09A-4D5D-BF97-CA95443A3835}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{91BF69AB-E09A-4D5D-BF97-CA95443A3835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32A4D434-3353-47B6-ACA3-1A1DAA778A28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32A4D434-3353-47B6-ACA3-1A1DAA778A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32A4D434-3353-47B6-ACA3-1A1DAA778A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32A4D434-3353-47B6-ACA3-1A1DAA778A28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

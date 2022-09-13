@@ -3,3 +3,9 @@
 ################################################################################
 
 /Job/obj
+/Job/bin
+/Metric/obj
+/Metric/bin
+/.vs/POC_OpenTelemetry
+/API/bin
+/API/obj
