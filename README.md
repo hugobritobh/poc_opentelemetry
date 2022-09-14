@@ -1,2 +1,3 @@
 # poc_opentelemetry
-POC OpenTelemetry com Zignoz
+
+Pt-br: https://medium.com/p/b3c204afa20b
