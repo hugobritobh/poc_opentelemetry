@@ -15,7 +15,7 @@ namespace Metric
             AppContext.SetSwitch("System.Net.Http.SocketsHttpHandler.Http2UnencryptedSupport", true);
 
             //Signoz
-            var url = new Uri("http://3.4.255.123:4317");
+            var url = new Uri("http://3.95.154.149:4317");
             var serviceVersion = Assembly.GetExecutingAssembly().GetName().Version?.ToString();
 
             services.AddOpenTelemetryMetrics(b =>
