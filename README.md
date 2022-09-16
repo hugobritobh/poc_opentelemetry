@@ -1,4 +1,4 @@
-# poc_opentelemetry
+# OpenTelemetry + Signoz
 
 Artigo em Português: https://medium.com/p/b3c204afa20b
 
